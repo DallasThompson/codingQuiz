@@ -5,9 +5,24 @@ var QandA = [
     options: ["Boolean", "Number", "Alert", "String"],
   },
   {
-    question: "Question2",
-    correctAnswer: "Answer",
-    options: ["aaa", "aaa", "aaa", "Answer"],
+    question: "Arrays in javascript can be used to store?",
+    correctAnswer: "All of the above",
+    options: ["Other arrays", "Boolean", "Curly brackets", "All of the above"],
+  },
+  {
+    question: "What is the extension of compiled java classes?",
+    correctAnswer: ".class",
+    options: [".txt", ".js", ".class", ".java"],
+  },
+  {
+    question: "Which of these cannot be used for a variable name in Java?",
+    correctAnswer: "Keyword",
+    options: [
+      "Identifier & keyword",
+      "Identifier",
+      "Keyword",
+      "None of the above",
+    ],
   },
 ];
 var answerOneEl = document.getElementById("answerOne");
