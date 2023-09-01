@@ -5,6 +5,8 @@
 
 Listed below is a link to the live website, GITHUB REPO, and a screenshot of the website.
 
+https://github.com/DallasThompson/codingQuiz/
+https://dallasthompson.github.io/codingQuiz/
 
 
 
